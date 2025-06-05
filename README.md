@@ -1,6 +1,6 @@
 # Resume.AI
 
-Resume.AI é um projeto acadêmico desenvolvido por um estudante do primeiro semestre de Análise e Desenvolvimento de Sistemas (ADS), com o objetivo de criar uma solução baseada em Inteligência Artificial capaz de resumir automaticamente conteúdos de websites. O foco está em proporcionar uma ferramenta prática para estudantes, profissionais e qualquer pessoa interessada em obter informações resumidas de páginas web extensas, facilitando a compreensão rápida e eficiente do conteúdo principal.
+Resume.AI é um projeto acadêmico desenvolvido atualmente apenas por mim, um estudante do primeiro semestre de Análise e Desenvolvimento de Sistemas (ADS), com o objetivo de criar uma solução baseada em Inteligência Artificial capaz de resumir automaticamente conteúdos de websites. O foco está em proporcionar uma ferramenta prática para estudantes, profissionais e qualquer pessoa interessada em obter informações resumidas de páginas web extensas, facilitando a compreensão rápida e eficiente do conteúdo principal.
 
 ---
 
